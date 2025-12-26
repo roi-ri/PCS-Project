@@ -3,7 +3,6 @@
 *
 * - File        : synchronization.v
 * - Autor       : Rodrigo E. Sanchez Araya    (C37259)
-*                 Daniel Alberto Sáenz Obando (C37099)
 * - Curso       : Sistemas Digitales II, Universidad de Costa Rica
 * - Fecha       : 05-12-2025
 *
