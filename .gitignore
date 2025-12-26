@@ -1,0 +1,13 @@
+# GTKWave
+*.gtkw
+
+# iverilog out
+*.vvp
+*.vcd
+*.out
+
+# LaTeX out dir
+out/
+
+# misc
+.DS_Store
